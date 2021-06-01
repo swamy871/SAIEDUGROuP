@@ -10,8 +10,7 @@
         "embeddedImage": "1.png",
         "isLiveStream": false,
         "showLiveChat": false,
-        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=Y5461TLxEEo&embed_domain=' frameborder='0' allowfullscreen></iframe>",
-        "category": "Class 1"
+        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=Y5461TLxEEo&embed_domain=' frameborder='0' allowfullscreen></iframe>"
     },
     {
         "id": "2",
@@ -21,8 +20,7 @@
         "embeddedImage": "2.png",
         "isLiveStream": false,
         "showLiveChat": false,
-        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=Y5461TLxEEo&embed_domain=' frameborder='0' allowfullscreen></iframe>",
-        "category": "Class 1"
+        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=Y5461TLxEEo&embed_domain=' frameborder='0' allowfullscreen></iframe>"
     },
     {
         "id": "3",
@@ -32,8 +30,7 @@
         "embeddedImage": "3.png",
         "isLiveStream": false,
         "showLiveChat": false,
-        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=NIk1-ck4c6Q&embed_domain=' frameborder='0' allowfullscreen></iframe>",
-        "category": "Class 1"
+        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=NIk1-ck4c6Q&embed_domain=' frameborder='0' allowfullscreen></iframe>"
     
     },
     {
@@ -44,8 +41,7 @@
         "embeddedImage": "1.png",
         "isLiveStream": false,
         "showLiveChat": false,
-        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=wZq2tyLNPRU&embed_domain=' frameborder='0' allowfullscreen></iframe>",
-        "category": "Class 2"
+        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=wZq2tyLNPRU&embed_domain=' frameborder='0' allowfullscreen></iframe>"
     },
     {
         "id": "5",
@@ -55,8 +51,7 @@
         "embeddedImage": "2.png",
         "isLiveStream": false,
         "showLiveChat": false,
-        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=4LV3tdG-aGk&embed_domain=' frameborder='0' allowfullscreen></iframe>",
-        "category": "Class 3"
+        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=4LV3tdG-aGk&embed_domain=' frameborder='0' allowfullscreen></iframe>"
     },
     {
         "id": "6",
@@ -66,8 +61,7 @@
         "embeddedImage": "3.png",
         "isLiveStream": false,
         "showLiveChat": false,
-        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=wZq2tyLNPRU&embed_domain=' frameborder='0' allowfullscreen></iframe>",
-        "category": "Class 1"
+        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=wZq2tyLNPRU&embed_domain=' frameborder='0' allowfullscreen></iframe>"
     }
 
 ]
