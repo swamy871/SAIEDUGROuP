@@ -8,6 +8,7 @@
         "title": "Class 1",
         "url": "/items/Class1",
         "icon": "mail",
+        "class": "class1",
         "showSubMenu": false,
         "subMenu": [
             {
@@ -26,6 +27,7 @@
         "title": "Class 2",
         "url": "/items/Class2",
         "icon": "paper-plane",
+        "class": "class2",
         "showSubMenu": false,
         "subMenu": [
             {
@@ -43,6 +45,7 @@
     {
         "title": "Class 3",
         "url": "/items/Class 3",
-        "icon": "heart"
+        "icon": "heart",
+        "class": "class3"
     }
 ]
