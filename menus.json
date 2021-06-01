@@ -1,0 +1,48 @@
+[
+    {
+      title: 'Home',
+      url: '/landing',
+      icon: 'heart'
+    },
+    {
+      title: 'Class 1',
+      url: '/items/Class1',
+      icon: 'mail',
+      showSubMenu: false,
+      subMenu: [
+        {
+          title: 'Grammar Check',
+          url: '/items/Grammar Check',
+          icon: 'paper-plane'
+        },
+        {
+          title: 'Poem',
+          url: '/items/Poem',
+          icon: 'paper-plane'
+        }
+      ]
+    },
+    {
+      title: 'Class 2',
+      url: '/items/Class2',
+      icon: 'paper-plane',
+      showSubMenu: false,
+      subMenu: [
+        {
+          title: 'Shape, Position and Movement',
+          url: '/items/Shape, Position and Movement',
+          icon: 'paper-plane'
+        },
+        {
+          title: 'Measurement',
+          url: '/items/Measurement',
+          icon: 'paper-plane'
+        }
+      ]
+    },
+    {
+      title: 'Class 3',
+      url: '/items/Class 3',
+      icon: 'heart'
+    }
+  ]
