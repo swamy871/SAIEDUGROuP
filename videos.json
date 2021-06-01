@@ -1,0 +1,73 @@
+
+
+
+[
+    {
+        "id": "1",
+        "title": "Pre School Learning For Kids | Animals, Birds, Animal Sounds, Fruits, Flowers, Vegetables",
+        "description": "Pebbles present, Pre School Learning For Kids. This Pre School video covers Live Teacher Video Training for Animals, Birds, Animal Sounds, Fruits, Flowers & Vegetables.",
+        "embeddedCode": "<iframe width='100%' height='200' src='https://www.youtube.com/embed/kCHeKc2R96o' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+        "embeddedImage": "1.png",
+        "isLiveStream": false,
+        "showLiveChat": false,
+        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=Y5461TLxEEo&embed_domain=' frameborder='0' allowfullscreen></iframe>",
+        "category": "Class 1"
+    },
+    {
+        "id": "2",
+        "title": "How To Start an Online Course",
+        "description": "Create an Online Course // Are you looking to scale your business and reach a wider range audience? Do you want to make a big impact and leave behind a legacy? Well, you\"re in luck!  In this week’s episode of #TheSunnyShow, I’m sharing my 5 steps to creating an online course.",
+        "embeddedCode": "<iframe width='100%' height='200' src='https://www.youtube.com/embed/XZ0jvEekbgA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+        "embeddedImage": "2.png",
+        "isLiveStream": false,
+        "showLiveChat": false,
+        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=Y5461TLxEEo&embed_domain=' frameborder='0' allowfullscreen></iframe>",
+        "category": "Class 1"
+    },
+    {
+        "id": "3",
+        "title": "How to teach Kids | from a Prague kindergarten, part 1 | English for Children",
+        "description": "How to manage 15+ Czech five year old kids in your classroom, if you only speak English? It´s easy, no worries. You need a clear and structured lesson plan, you need to be a leader and you need to show a big warm smile. Use body language too and you will succeed. Children love to be surprised, entertained, they love physical activities and once you do all of it, you can introduce and drill any language you like, even comparatives.",
+        "embeddedCode": "<iframe width='100%' height='200' src='https://www.youtube.com/embed/NIk1-ck4c6Q' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+        "embeddedImage": "3.png",
+        "isLiveStream": false,
+        "showLiveChat": false,
+        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=NIk1-ck4c6Q&embed_domain=' frameborder='0' allowfullscreen></iframe>",
+        "category": "Class 1"
+    
+    },
+    {
+        "id": "4",
+        "title": "19 Best Short English Stories for Kids Collection | Infobells",
+        "description": "This is one of the best short stories for Kids video collection presented with attractive animation, each moral stories comes with value building themes that children can enjoy. These short moral stories will help children learn important lessons of life.",
+        "embeddedCode": "<iframe width='100%' height='200' src='https://www.youtube.com/embed/wZq2tyLNPRU' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+        "embeddedImage": "1.png",
+        "isLiveStream": false,
+        "showLiveChat": false,
+        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=wZq2tyLNPRU&embed_domain=' frameborder='0' allowfullscreen></iframe>",
+        "category": "Class 2"
+    },
+    {
+        "id": "5",
+        "title": "Kids Stories : The Lazy Girl and The Jack and The beanstalk || Animated Stories For Kids",
+        "description": "How to manage 15+ Czech five year old kids in your classroom, if you only speak English? It´s easy, no worries. You need a clear and structured lesson plan, you need to be a leader and you need to show a big warm smile. Use body language too and you will succeed. Children love to be surprised, entertained, they love physical activities and once you do all of it, you can introduce and drill any language you like, even comparatives.",
+        "embeddedCode": "<iframe width='100%' height='200' src='https://www.youtube.com/embed/4LV3tdG-aGk' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+        "embeddedImage": "2.png",
+        "isLiveStream": false,
+        "showLiveChat": false,
+        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=4LV3tdG-aGk&embed_domain=' frameborder='0' allowfullscreen></iframe>",
+        "category": "Class 3"
+    },
+    {
+        "id": "6",
+        "title": "19 Best Short English Stories for Kids Collection | Infobells",
+        "description": "This is one of the best short stories for Kids video collection presented with attractive animation, each moral stories comes with value building themes that children can enjoy. These short moral stories will help children learn important lessons of life.",
+        "embeddedCode": "<iframe width='100%' height='200' src='https://www.youtube.com/embed/wZq2tyLNPRU' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+        "embeddedImage": "3.png",
+        "isLiveStream": false,
+        "showLiveChat": false,
+        "liveChatID": " <iframe width='100%' height='315' src='https://www.youtube.com/live_chat?v=wZq2tyLNPRU&embed_domain=' frameborder='0' allowfullscreen></iframe>",
+        "category": "Class 1"
+    }
+
+]
